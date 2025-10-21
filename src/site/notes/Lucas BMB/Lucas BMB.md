@@ -7,7 +7,7 @@
 
 arreeeee 
 
-
+ssssssssssssseloc
 [[Lucas BMB/testes/gráfico\|gráfico]]
 
 
