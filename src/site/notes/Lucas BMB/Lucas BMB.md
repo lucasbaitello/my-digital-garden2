@@ -10,7 +10,8 @@ arreeeee
 ssssssssssssseloc
 [[Lucas BMB/testes/gráfico\|gráfico]]
 
-
+nota sem nada:
+[[Lucas BMB/testes/simple note\|simple note]]
 
 digitalgarden - netlify
 
