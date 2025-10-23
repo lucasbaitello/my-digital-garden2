@@ -16,3 +16,28 @@ nota mais simpre impossivel
 ###### sdsdsdsds
 
 ####### sdfsdsd
+
+
+
+
+
+```columns
+id: 7K9WcbPxava2bmlzrPqUv
+===
+## Tarefas
+
+
+- [ ] #obsidian 
+- [ ] #blocoB fdfdfdf
+- [ ] #casinha dfdf
+      dfdfd
+<p hidden>placer</p>
+
+`BUTTON[addblocob, addcasinha, addobsidian]`
+
+
+
+===
+## Anteriores:
+
+{ .block-language-dataview}
