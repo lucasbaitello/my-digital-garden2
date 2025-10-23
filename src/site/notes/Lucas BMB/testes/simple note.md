@@ -39,5 +39,73 @@ id: 7K9WcbPxava2bmlzrPqUv
 
 ===
 ## Anteriores:
+llllalala
+llllalala
 
-{ .block-language-dataview}
+llllalala
+llllalala
+
+
+llllalala
+44
+```
+
+
+
+
+
+> [!multi-column]
+>
+>> [!note]
+>> lalalalala
+>>
+>>pipipipi
+>>dgfdfdf
+>>dfdf
+>>dfdfdas
+>>adsf
+>>## rere
+>>df
+>>sdafdffdfdfdfdfdafdfdfd **ffdhgjtu** jykhkjjhkfdfgrtrtryfgfgfggf [[gfgfgerererererererererere\|gfgfgerererererererererere]] rpoosdkls,mvnfkglllfjkkbkkkfjrururjncjjdkdlkfllglglgl
+>>dfdfdf
+>>hbihbihb
+>
+>> [!alert|wide-5]-
+>> lalalalaladffff
+>>
+>>pipipipi
+>>dgfdfdf
+>>dfdf
+>>dfdfdas
+>>adsf
+>>df
+>>sdafdffdfdfdfdfdafdfdfdffdhgjtujykhkjjhkfdfgrtrtryfgfgfggfgfgfgerererererererererererpoosdkls,mvnfkglllfjkkbkkkfjrururjncjjdkdlkfllglglgl
+>>dfdfdf
+>>hbihbihb
+>
+>> [!note]
+>> lalalalala
+>>
+>>pipipipi
+>>dgfdfdf
+>>dfdf
+>>dfdfdas
+>>adsf
+>>df
+>>sdafdffdfdfdfdfdafdfdfdffdhgjtujykhkjjhkfdfgrtrtryfgfgfggfgfgfgerererererererererererpoosdkls,mvnfkglllfjkkbkkkfjrururjncjjdkdlkfllglglgl
+>>dfdfdf
+>>hbihbihb
+>
+>>[!alert]
+>
+>> [!note]
+>> dfdfdf
+>>pipipipi
+>>dgfdfdf
+>>dfdf
+>>dfdfdas
+>>adsf
+>>df
+>>sdafdffdfdfdfdfdafdfdfdffdhgjtujykhkjjhkfdfgrtrtryfgfgfggfgfgfgerererererererererererpoosdkls,mvnfkglllfjkkbkkkfjrururjncjjdkdlkfllglglgl
+>>dfdfdf
+>>hbihbihb
