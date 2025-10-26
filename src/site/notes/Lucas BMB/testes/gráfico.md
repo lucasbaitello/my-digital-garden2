@@ -4,7 +4,12 @@
 
 aeeee jow, publico aqui direto um site nosso carai, show, top, 
 ddddddddddd
-ai tem link pra lá [[Lucas BMB/Lucas BMB\|palavras]]
+
+### pala
+#### pala
+##### pala
+
+# ai tem link pra lá [[Lucas BMB/Lucas BMB\|palavras]]
 
 [[Lucas BMB/testes/lavemvc\|lavemvc]]
 que insano man
@@ -54,7 +59,7 @@ seraá mesmo [[Lucas BMB/testes/lavemvc\|lavemvc]]
 ## pode pá!
 
 
-> [!note]- salve
+> [!note|noicon]- salve
 > altas paradas cbgfg
 > 
 > vamos ve comé  que fica
@@ -110,9 +115,11 @@ jow show  ==dsfdf== dfdfdf dfdgdfs
 .tooltip { position:fixed; background:rgba(10,10,10,0.92); color:#fff; padding:6px 8px; border-radius:6px; font-size:12px; pointer-events:none; z-index:99999; display:none; white-space:nowrap; }
 @media (max-width:980px){ .habit-grid { grid-template-columns: repeat(2, minmax(120px,1fr)); } .render-area { width: 92vw; } }
 @media (max-width:560px){ .habit-grid { grid-template-columns: repeat(1, minmax(120px,1fr)); } .day-labels { display:none; } }
-</style><div class="dv-wrap"><div class="selector-callout"><details class="callout"><summary>Selecionar hábitos e meses</summary><div class="meta">Escolha os hábitos e meses que deseja visualizar. Pressione Aplicar para gerar os heatmaps.</div><div style="display: flex; gap: 12px; align-items: flex-start; margin-top: 8px;"><div style="flex: 1 1 0%;"><div class="habit-grid"><div class="habit-item"><input type="checkbox" id="chk-j078jz"><label for="chk-j078jz">Água</label></div><div class="habit-item"><input type="checkbox" id="chk-zny3do"><label for="chk-zny3do">Alimentação</label></div><div class="habit-item"><input type="checkbox" id="chk-7uhjzb"><label for="chk-7uhjzb">dayRating</label></div><div class="habit-item"><input type="checkbox" id="chk-wkgfg5"><label for="chk-wkgfg5">Exercício</label></div><div class="habit-item"><input type="checkbox" id="chk-bdvbf3"><label for="chk-bdvbf3">Gases</label></div><div class="habit-item"><input type="checkbox" id="chk-63mpyo"><label for="chk-63mpyo">Gastos</label></div><div class="habit-item"><input type="checkbox" id="chk-6hifeb"><label for="chk-6hifeb">gdfd</label></div><div class="habit-item"><input type="checkbox" id="chk-mugwcv"><label for="chk-mugwcv">Hidratação</label></div><div class="habit-item"><input type="checkbox" id="chk-w7ukv7"><label for="chk-w7ukv7">Leitura</label></div><div class="habit-item"><input type="checkbox" id="chk-x6uqvw"><label for="chk-x6uqvw">Meditação</label></div><div class="habit-item"><input type="checkbox" id="chk-kslxdt"><label for="chk-kslxdt">ooooooooi</label></div><div class="habit-item"><input type="checkbox" id="chk-51a5nn"><label for="chk-51a5nn">peidar</label></div><div class="habit-item"><input type="checkbox" id="chk-p0p26a"><label for="chk-p0p26a">Pinochio</label></div><div class="habit-item"><input type="checkbox" id="chk-qclh0t"><label for="chk-qclh0t">QAsono</label></div><div class="habit-item"><input type="checkbox" id="chk-ejh42b"><label for="chk-ejh42b">qualquer</label></div><div class="habit-item"><input type="checkbox" id="chk-6b4lsc"><label for="chk-6b4lsc">rfgfgsd</label></div><div class="habit-item"><input type="checkbox" id="chk-wb50qa"><label for="chk-wb50qa">salve</label></div><div class="habit-item"><input type="checkbox" id="chk-pocfn3"><label for="chk-pocfn3">Socialização</label></div><div class="habit-item"><input type="checkbox" id="chk-3agkjx"><label for="chk-3agkjx">Sono</label></div><div class="habit-item"><input type="checkbox" id="chk-von5uw"><label for="chk-von5uw">werer</label></div><div class="habit-item"><input type="checkbox" id="chk-a3az6x"><label for="chk-a3az6x">what</label></div></div></div><div style="min-width: 220px; display: flex; flex-direction: column; gap: 10px;"><div class="small">Filtrar meses</div><div class="month-filter"><div class="month-item"><input type="checkbox" id="mo-0-j5nv"><label for="mo-0-j5nv">Jan</label></div><div class="month-item"><input type="checkbox" id="mo-1-g0xp"><label for="mo-1-g0xp">Fev</label></div><div class="month-item"><input type="checkbox" id="mo-2-eryw"><label for="mo-2-eryw">Mar</label></div><div class="month-item"><input type="checkbox" id="mo-3-be4i"><label for="mo-3-be4i">Abr</label></div><div class="month-item"><input type="checkbox" id="mo-4-pd3n"><label for="mo-4-pd3n">Mai</label></div><div class="month-item"><input type="checkbox" id="mo-5-hxt6"><label for="mo-5-hxt6">Jun</label></div><div class="month-item"><input type="checkbox" id="mo-6-4zey"><label for="mo-6-4zey">Jul</label></div><div class="month-item"><input type="checkbox" id="mo-7-wmoc"><label for="mo-7-wmoc">Ago</label></div><div class="month-item"><input type="checkbox" id="mo-8-sv5m"><label for="mo-8-sv5m">Set</label></div><div class="month-item"><input type="checkbox" id="mo-9-bg5p"><label for="mo-9-bg5p">Out</label></div><div class="month-item"><input type="checkbox" id="mo-10-m4pb"><label for="mo-10-m4pb">Nov</label></div><div class="month-item"><input type="checkbox" id="mo-11-isvi"><label for="mo-11-isvi">Dez</label></div></div><div class="controls"><button class="btn">Aplicar seleção</button></div></div></div></details></div><div class="render-area"></div></div>
+</style><div class="dv-wrap"><div class="selector-callout"><details class="callout"><summary>Selecionar hábitos e meses</summary><div class="meta">Escolha os hábitos e meses que deseja visualizar. Pressione Aplicar para gerar os heatmaps.</div><div style="display: flex; gap: 12px; align-items: flex-start; margin-top: 8px;"><div style="flex: 1 1 0%;"><div class="habit-grid"><div class="habit-item"><input type="checkbox" id="chk-wsnrec"><label for="chk-wsnrec">Água</label></div><div class="habit-item"><input type="checkbox" id="chk-o9hol6"><label for="chk-o9hol6">Alimentação</label></div><div class="habit-item"><input type="checkbox" id="chk-rodzcm"><label for="chk-rodzcm">dayRating</label></div><div class="habit-item"><input type="checkbox" id="chk-gqo9rq"><label for="chk-gqo9rq">Exercício</label></div><div class="habit-item"><input type="checkbox" id="chk-pcm7om"><label for="chk-pcm7om">Gases</label></div><div class="habit-item"><input type="checkbox" id="chk-4h9krt"><label for="chk-4h9krt">Gastos</label></div><div class="habit-item"><input type="checkbox" id="chk-g9bf56"><label for="chk-g9bf56">gdfd</label></div><div class="habit-item"><input type="checkbox" id="chk-r3y03m"><label for="chk-r3y03m">Hidratação</label></div><div class="habit-item"><input type="checkbox" id="chk-yjnbqb"><label for="chk-yjnbqb">Leitura</label></div><div class="habit-item"><input type="checkbox" id="chk-bn9kc0"><label for="chk-bn9kc0">Meditação</label></div><div class="habit-item"><input type="checkbox" id="chk-36prme"><label for="chk-36prme">ooooooooi</label></div><div class="habit-item"><input type="checkbox" id="chk-94sh7f"><label for="chk-94sh7f">peidar</label></div><div class="habit-item"><input type="checkbox" id="chk-fktj7l"><label for="chk-fktj7l">Pinochio</label></div><div class="habit-item"><input type="checkbox" id="chk-9uo23y"><label for="chk-9uo23y">QAsono</label></div><div class="habit-item"><input type="checkbox" id="chk-9tnt8p"><label for="chk-9tnt8p">qualquer</label></div><div class="habit-item"><input type="checkbox" id="chk-p2i7cu"><label for="chk-p2i7cu">rfgfgsd</label></div><div class="habit-item"><input type="checkbox" id="chk-ttyqvf"><label for="chk-ttyqvf">salve</label></div><div class="habit-item"><input type="checkbox" id="chk-mu4rhj"><label for="chk-mu4rhj">Socialização</label></div><div class="habit-item"><input type="checkbox" id="chk-752ufl"><label for="chk-752ufl">Sono</label></div><div class="habit-item"><input type="checkbox" id="chk-fugkfl"><label for="chk-fugkfl">werer</label></div><div class="habit-item"><input type="checkbox" id="chk-p3wk91"><label for="chk-p3wk91">what</label></div></div></div><div style="min-width: 220px; display: flex; flex-direction: column; gap: 10px;"><div class="small">Filtrar meses</div><div class="month-filter"><div class="month-item"><input type="checkbox" id="mo-0-koc0"><label for="mo-0-koc0">Jan</label></div><div class="month-item"><input type="checkbox" id="mo-1-tla7"><label for="mo-1-tla7">Fev</label></div><div class="month-item"><input type="checkbox" id="mo-2-ecco"><label for="mo-2-ecco">Mar</label></div><div class="month-item"><input type="checkbox" id="mo-3-09bc"><label for="mo-3-09bc">Abr</label></div><div class="month-item"><input type="checkbox" id="mo-4-06bp"><label for="mo-4-06bp">Mai</label></div><div class="month-item"><input type="checkbox" id="mo-5-98er"><label for="mo-5-98er">Jun</label></div><div class="month-item"><input type="checkbox" id="mo-6-5kff"><label for="mo-6-5kff">Jul</label></div><div class="month-item"><input type="checkbox" id="mo-7-jaqx"><label for="mo-7-jaqx">Ago</label></div><div class="month-item"><input type="checkbox" id="mo-8-suwy"><label for="mo-8-suwy">Set</label></div><div class="month-item"><input type="checkbox" id="mo-9-0hbw"><label for="mo-9-0hbw">Out</label></div><div class="month-item"><input type="checkbox" id="mo-10-k10p"><label for="mo-10-k10p">Nov</label></div><div class="month-item"><input type="checkbox" id="mo-11-t9kp"><label for="mo-11-t9kp">Dez</label></div></div><div class="controls"><button class="btn">Aplicar seleção</button></div></div></div></details></div><div class="render-area"></div></div>
 
 ## dfdsfdsf
+
+
 ## Trends
 
 <style>
@@ -144,12 +151,7 @@ jow show  ==dsfdf== dfdfdf dfdgdfs
 
 - [ ] dgdgfdf ⏫ ➕ 2025-10-20 
 - [ ] dfdgdsgd 🔼 dgfdsgsd📅 2025-10-21 ➕ 2025-10-20 
-- [ ] 
-```
-
-dfsdfsdfdsf
-
-```
+- [ ] sdf
 
 
 ```davaviewjs

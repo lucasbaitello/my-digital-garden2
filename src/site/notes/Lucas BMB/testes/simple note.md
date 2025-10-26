@@ -56,7 +56,7 @@ llllalala
 
 > [!multi-column]
 >
->> [!note]
+>> [!note|noicon]
 >> lalalalala
 >>
 >>pipipipi
@@ -70,7 +70,7 @@ llllalala
 >>dfdfdf
 >>hbihbihb
 >
->> [!alert|wide-5]-
+>> [!alert|wide-5. noicon]-
 >> lalalalaladffff
 >>
 >>pipipipi
@@ -83,7 +83,7 @@ llllalala
 >>dfdfdf
 >>hbihbihb
 >
->> [!note]
+>> [!note|noicon]
 >> lalalalala
 >>
 >>pipipipi
@@ -96,9 +96,9 @@ llllalala
 >>dfdfdf
 >>hbihbihb
 >
->>[!alert]
+>>[!alert|noicon]
 >
->> [!note]
+>> [!note|noicon]
 >> dfdfdf
 >>pipipipi
 >>dgfdfdf
