@@ -38,5 +38,5 @@ sunafiunde
 
 
 
-<img class="" src="ComfyUI_00352_.png" alt="erro ao carregar img" width="400">
+<img class="" src="https://my-digital-garden2-git-main-lucasbaitellos-projects.vercel.app/img/optimized/WX3d9gWM9I-700.webp" alt="erro ao carregar img" width="400">
 
