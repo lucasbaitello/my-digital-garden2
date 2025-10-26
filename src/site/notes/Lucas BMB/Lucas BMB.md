@@ -38,5 +38,5 @@ sunafiunde
 
 
 
-<img class="" src="ComfyUI_00352_.png" alt="ComfyUI_00352_.png" width="400">
+<img class="" src="ComfyUI_00352_.png" alt="erro ao carregar img" width="400">
 
