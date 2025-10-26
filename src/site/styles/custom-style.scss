@@ -2,10 +2,6 @@
    OBSIDIAN CUSTOM HEADERS SNIPPET
    ============================================ */
 
-/* ----------------------------------------
-   H1 - Título Principal
-   Estilo: Negrito com borda inferior elegante
-   ---------------------------------------- */
 
 .callout:is([data-callout-metadata="noicon"]) .callout-icon {
   display: none;
@@ -14,9 +10,12 @@
 
 
 
+/* ----------------------------------------
+   H1 - Título Principal
+   Estilo: Negrito com borda inferior elegante
+   ---------------------------------------- */
 .markdown-preview-view h1,
- .gradient-text {
- .cm-header-1 {
+.cm-header-1 {
   color: #c289fba8; /* Cor do texto - azul índigo */
   font-weight: 600;
   font-size: 2.2em;
