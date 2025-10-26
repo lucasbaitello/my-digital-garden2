@@ -33,10 +33,4 @@ ripla
 xelobio
 sacapre
 sunafiunde
-![ComfyUI_00352_.png|337x600](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)![ComfyUI_00352_.png](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)
-
-
-
-
-<img class="" src="https://my-digital-garden2-git-main-lucasbaitellos-projects.vercel.app/img/optimized/WX3d9gWM9I-700.webp" alt="erro ao carregar img" width="400">
-
+![ComfyUI_00352_.png|200](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)![ComfyUI_00352_.png](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)
