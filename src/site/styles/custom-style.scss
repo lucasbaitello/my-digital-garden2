@@ -6,6 +6,14 @@
    H1 - Título Principal
    Estilo: Negrito com borda inferior elegante
    ---------------------------------------- */
+
+.callout:is([data-callout-metadata="noicon"]) .callout-icon {
+  display: none;
+}
+
+
+
+
 .markdown-preview-view h1,
  .gradient-text {
         background-image: linear-gradient(to right, #f3ec78, #af4261);
