@@ -54,9 +54,9 @@ llllalala
 
 
 
-> [!multi-column]
+> [!multi-column]+
 >
->> [!note|noicon]
+>> [!note|noicon]+
 >> lalalalala
 >>
 >>pipipipi
@@ -96,9 +96,9 @@ llllalala
 >>dfdfdf
 >>hbihbihb
 >
->>[!alert|noicon]
+>>[!alert|noicon]+
 >
->> [!note|noicon]
+>> [!note|noicon]+
 >> dfdfdf
 >>pipipipi
 >>dgfdfdf
