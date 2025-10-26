@@ -33,4 +33,4 @@ ripla
 xelobio
 sacapre
 sunafiunde
-![ComfyUI_00352_.png|337x337](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)
+![ComfyUI_00352_.png|337x600](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)![ComfyUI_00352_.png](/img/user/Lucas%20BMB/Anexos/ComfyUI_00352_.png)
